@@ -1,4 +1,8 @@
 <h2>Project title : Facial Recognition for Crime Detection. </h2>
+<hr>
+Workflow Pipeline : 
+<img src ="img/Block_Diagram.png">
+
 <h4>Problem Statement: Build a face recognition analytics system for law enforcement agencies </h4>
 
 <h4>Problem Description: </h4>
@@ -19,5 +23,17 @@ Retrainable model<br>
 Accessibility <br>
 User friendly <br>
 Accuracy <br>
+
+<hr>
+<h4>Steps To Run:<h4>
+<h5>Step1: Run reqiurement.txt file to install libraries required.<br>
+Step2: Run home.py file.<br>
+  Step3: Start experiencing the Gui.</h5>
+
+<hr>
+<h4> Snippets of Project</h4>
+<img src ="img/Gui1.png">
+<img src ="img/Gui2.png">
+
 
 
