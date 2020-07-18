@@ -11,13 +11,13 @@ The task here is to analyze a 30 second- 1 min video, and capture faces of the p
 Now, if the above technology is used for thousands of videos gathered from hundreds of intelligence sources, with cross-checks across all videos, really significant information on patterns in any form of organized crime can be identified.
 
 <h4>Model Build on Keeping These Criteria in Mind: </h4>
-Performance of model
-Model selection 
-Scalability 
-Scalability of model
-Retrainable model
-Accessibility 
-User friendly 
-Accuracy 
+Performance of model<br>
+Model selection <br>
+Scalability <br>
+Scalability of model<br>
+Retrainable model<br>
+Accessibility <br>
+User friendly <br>
+Accuracy <br>
 
 
