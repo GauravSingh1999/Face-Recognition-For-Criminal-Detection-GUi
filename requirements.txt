@@ -129,7 +129,7 @@ pycparser==2.19
 pycrypto==2.6.1
 pycups==1.9.73
 pyfiglet==0.8.post1
-Pygments==2.4.2
+Pygments==2.7.4
 pygobject==3.26.1
 PyInquirer==1.0.3
 pymacaroons==0.13.0
