@@ -82,7 +82,7 @@ lazr.uri==1.0.3
 librosa==0.7.1
 llvmlite==0.30.0
 louis==3.5.0
-lxml==4.2.1
+lxml==4.6.3
 macaroonbakery==1.1.3
 Mako==1.0.7
 Markdown==3.1.1
