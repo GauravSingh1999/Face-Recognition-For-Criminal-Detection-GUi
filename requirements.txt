@@ -114,7 +114,7 @@ patsy==0.4.1+dev
 pbr==5.4.3
 pexpect==4.2.1
 pickleshare==0.7.5
-Pillow==5.1.0
+Pillow==9.0.0
 pretrainedmodels==0.7.4
 proglog==0.1.9
 prometheus-client==0.7.1
