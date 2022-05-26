@@ -177,7 +177,7 @@ systemd-python==234
 tables==3.4.2
 tb-nightly==1.14.0a20190301
 tensorboard==2.0.1
-tensorflow==2.0.0a0
+tensorflow==2.7.2
 tensorflow-estimator==2.0.1
 termcolor==1.1.0
 terminado==0.8.3
