@@ -101,7 +101,7 @@ networkx==2.2
 notebook==6.0.2
 numba==0.46.0
 numexpr==2.6.4
-numpy==1.17.4
+numpy==1.22.0
 oauth==1.0.1
 oauthlib==3.1.0
 olefile==0.45.1
