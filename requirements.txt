@@ -94,7 +94,7 @@ more-itertools==7.2.0
 moviepy==1.0.1
 munch==2.5.0
 mysql-connector-python-rf==2.2.2
-nbconvert==5.6.1
+nbconvert==6.5.1
 nbformat==4.4.0
 netifaces==0.10.4
 networkx==2.2
