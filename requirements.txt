@@ -119,7 +119,7 @@ pretrainedmodels==0.7.4
 proglog==0.1.9
 prometheus-client==0.7.1
 prompt-toolkit==1.0.14
-protobuf==3.10.0
+protobuf==3.18.3
 ptyprocess==0.6.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.7
